@@ -12,4 +12,6 @@ graphics.h and other default c++ libraries
 * inside MinGW>>lib>> add libbgi.a
 * Add the linker: -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 * In codeblocks: Settings>> Compiler>> Linker Settings>> other link options: add the linker
-* Its all done. 
+
+## File hierarchy:
+* Place the folder User_Data in C Drive. 
