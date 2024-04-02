@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+				
+***************Welcome To LEAF COMMUNITY***************
+            
+                 
+1. Enter your user name and valid password to login.                         
+2. Not created LEAF ID yet!,                                                  
+- Create your account.                                               
+- Enter the desired user name.                          
+- Set your passcode. It must be of 8 characters.        
+- Now, you will get the message Registration Successful.       
+- Continue to login,                                    
+- Login                                                 
+- All set now, Login and Enjoy.                          
+		
